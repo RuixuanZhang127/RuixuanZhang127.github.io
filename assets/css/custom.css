@@ -1,0 +1,4 @@
+/* Completely remove masthead (site-wide) */
+.masthead {
+  display: none !important;
+}
