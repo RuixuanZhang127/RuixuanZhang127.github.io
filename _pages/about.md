@@ -14,4 +14,4 @@ I am currently pursuing a PhD in Computer Science and Technology at the School o
 
 
 ## Research Interests  
-selective generation in LLMs
+Selective Generation in LLMs
