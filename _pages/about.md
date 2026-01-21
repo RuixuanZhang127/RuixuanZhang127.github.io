@@ -9,9 +9,9 @@ redirect_from:
 
 I am currently pursuing a PhD in Computer Science and Technology at the School of Computer and Information Technology, Shanxi University. My supervisors are Prof. [Hongye Tan](https://cs.sxu.edu.cn/faculty/professor/1469/index.htm) and Prof. [Víctor Gutiérrez Basulto](https://scholar.google.com/citations?user=L2eFo5IAAAAJ&hl=en).
 
-#### Email  
+### Email  
 <code>zhangruixuan@sxu.edu.cn</code>
 
 
-#### Research Interests  
+## Research Interests  
 selective generation in LLMs
