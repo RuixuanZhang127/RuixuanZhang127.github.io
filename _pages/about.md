@@ -14,4 +14,6 @@ I am currently pursuing a PhD in Computer Science and Technology at the School o
 
 
 ## Research Interests  
-Selective Generation in LLMs
+- Large Language Models
+- Selective Generation
+- Trustworthy AI
